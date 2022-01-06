@@ -1,3 +1,3 @@
 # Object Detection Using Tensorflow
 
-A Compelte Notebook for training a custom object detection model using various Pre-trained models
+A Complete Notebook for training a custom object detection model using various Pre-trained models
